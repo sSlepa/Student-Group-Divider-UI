@@ -2,24 +2,6 @@
 
 This project provides a graphical interface for dividing a list of students into groups. It is designed to simplify the process of grouping students and managing group assignments.
 
-## Features
-
-1. **Load Students from File**  
-   - Import a list of students from a text file, where each student's name is on a separate line.
-
-2. **Save Groups to CSV**  
-   - Export groups to CSV files, including the group number and the students in each group.
-
-3. **Automatic Group Division**  
-   - Automatically divide students into groups based on the number of groups specified by the user.
-
-4. **Manual Group Management**  
-   - View groups and their students.  
-   - Move unassigned students or reassign students between groups using an intuitive interface with combo-boxes, lists, and buttons.
-
-5. **Create New Groups**  
-   - Easily add and manage new groups through the application's interface.
-
 ## Application Details
 
 The application implements the following requirements:
