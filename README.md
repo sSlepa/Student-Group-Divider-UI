@@ -40,6 +40,11 @@ The application implements the following requirements:
 3. **View and Edit Groups**: View the generated groups and make manual adjustments if necessary.
 4. **Export Groups**: Save the groups to a CSV file for further use or sharing.
 
+## Screenshots
+
+![Alt text](GUI.png)
+![Alt text](GUI2.png)
+
 ## Requirements
 - Java 11+
 - Libraries: 
