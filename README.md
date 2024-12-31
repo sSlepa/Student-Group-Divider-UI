@@ -43,6 +43,9 @@ The application implements the following requirements:
 ## Screenshots
 
 ![Alt text](GUI.png)
+
+## 
+
 ![Alt text](GUI2.png)
 
 ## Requirements
